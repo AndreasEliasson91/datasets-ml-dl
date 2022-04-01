@@ -1,4 +1,4 @@
-ITERATIONS = 100
+ITERATIONS = 10000
 
 
 def main():
